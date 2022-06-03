@@ -10,8 +10,6 @@
 </h3>
 <br>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
 - 👋 Hi, I’m @Murugan-Karthick
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
