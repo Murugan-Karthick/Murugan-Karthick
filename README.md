@@ -10,7 +10,7 @@
 </h3>
 <br>
 
-- 👋 Hi, I’m @Murugan-Karthick
+- 👋 Hi, I’m @Murugan-Karthick AI Enthusiast
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 
